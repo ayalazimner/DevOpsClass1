@@ -13,6 +13,8 @@
 # print(content)
 # my_file.close()
 
+
+
 #Write and Read Hebrew file
 
 # my_file2=open("D:\Python\Test Files\Heb.txt", 'a', encoding='utf-8')
